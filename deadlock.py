@@ -1,9 +1,5 @@
 import numpy as np
-import psutil
 import time
-import subprocess as sp
-from threading import Thread
-import matplotlib.pyplot as plt
 
 # mat = {'p0': ['cpu', 'mem', 'storage']}
 cpu = []
